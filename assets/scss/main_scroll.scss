@@ -1,0 +1,192 @@
+/* All Styles Imported Here */
+
+/* ------------------------------------------------------------------
+[Main Theme Styles]
+Project     :   veritas2u.com
+Author      :   Veerendra Kumara
+
+[Table of contents]
+main.scss
+    |   01. Imports
+    |   02. 
+------------------------------------------------------------------- */
+
+/* 01. Imports */
+
+@import 'variables',
+'mixins',
+'pages_scroll';
+
+body {
+    margin: 0;
+    background: $lays1_10;
+    font-family: $fmi_r;
+    cursor: url("../img/varrow.png"), auto;
+    font-size: 14px;
+    @include transition(all 1s ease-in-out);
+}
+
+.fms_r {
+    font-family: $fms_r;
+}
+
+.fmi_r {
+    font-family: $fms_r;
+}
+
+.fhy_s {
+    font-family: $fhy_s;
+}
+
+.fhy_w {
+    font-family: $fhy_w;
+}
+
+.fhy_c {
+    font-family: $fhy_c;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $fmi_r;
+}
+
+p,
+a,
+input,
+textarea {
+    font-size: 14px;
+    font-family: $fmi_r;
+}
+
+a,
+button {
+    font-size: 14px;
+    cursor: url("../img/varrow_link.png"), auto;
+}
+
+.text_i {
+    font-style: italic;
+}
+
+.no_select{
+    @include user-select(none);
+}
+
+ ::-webkit-input-placeholder {
+     opacity: 1;
+ }
+
+ :focus::-webkit-input-placeholder {
+     opacity: 0;
+ }
+
+ ::-moz-placeholder {
+     opacity: 1;
+ }
+
+ :focus::-moz-placeholder {
+     opacity: 0;
+ }
+
+
+//.p1_color {
+//    color: $p1;
+//}
+//
+//.p2_color {
+//    color: $p2;
+//}
+//
+//.p3_color {
+//    color: $p3;
+//}
+//
+//.s1_color {
+//    color: $s1;
+//}
+//
+//.s2_color {
+//    color: $s2;
+//}
+//
+//.s3_color {
+//    color: $s3;
+//}
+//
+//.p1_bg {
+//    background: $p1;
+//}
+//
+//.p2_bg {
+//    background: $p2;
+//}
+//
+//.p3_bg {
+//    background: $p3;
+//}
+//
+//.s1_bg {
+//    background: $s1;
+//}
+//
+//.s2_bg {
+//    background: $s2;
+//}
+//
+//.s3_bg {
+//    background: $s3;
+//}
+
+/* 02. scrollbar  */
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+/* Track */
+
+::-webkit-scrollbar-track {
+    background: $lays3_8;
+    border-radius: 10px;
+}
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+    background: $layp2_10;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+
+::-webkit-scrollbar-thumb:hover {
+    background: $layp1_10;
+}
+
+.light_mode {
+    ::-webkit-scrollbar-track {
+        background: $lays1_8;
+        border-radius: 10px;
+    }
+
+    /* Handle */
+
+    ::-webkit-scrollbar-thumb {
+        background: $layp2_10;
+        border-radius: 10px;
+    }
+
+    /* Handle on hover */
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: $layp1_10;
+    }
+}
+
+
+/* All Styles ends Here */

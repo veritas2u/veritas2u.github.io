@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733335 67.733335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   sodipodi:docname="skills_brackets.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="82.621627"
+     inkscape:cy="141.43878"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-229.26665)">
+    <g
+       id="g998"
+       transform="matrix(2.2048611,0,0,2.2048611,7.4083335,236.67498)">
+	<linearGradient
+   y2="24.0005"
+   x2="11.9995"
+   y1="0"
+   x1="11.9995"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_1_">
+		<stop
+   id="stop973"
+   style="stop-color:#29ABE2"
+   offset="0" />
+
+		<stop
+   id="stop975"
+   style="stop-color:#28A9E1"
+   offset="0.4757" />
+
+		<stop
+   id="stop977"
+   style="stop-color:#23A2DC"
+   offset="0.6639" />
+
+		<stop
+   id="stop979"
+   style="stop-color:#1A96D4"
+   offset="0.8012" />
+
+		<stop
+   id="stop981"
+   style="stop-color:#0E85C9"
+   offset="0.913" />
+
+		<stop
+   id="stop983"
+   style="stop-color:#0071BC"
+   offset="1" />
+
+	</linearGradient>
+
+	<path
+   id="path986"
+   d="m 24,19 c 0,2.75 -2.25,5 -5,5 H 5 C 2.25,24 0,21.75 0,19 V 5 C 0,2.25 2.25,0 5,0 h 14 c 2.75,0 5,2.25 5,5 z"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_1_)" />
+
+	<path
+   id="path988"
+   d="m 21,18 c 0,1.65 -1.35,3 -3,3 H 6 C 4.35,21 3,19.65 3,18 V 6 C 3,4.35 4.35,3 6,3 h 12 c 1.65,0 3,1.35 3,3 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+
+	<g
+   id="g992">
+		<path
+   id="path990"
+   d="m 19,6 v 12 h -6 v -3 h 3 V 9 H 13 V 6 Z"
+   inkscape:connector-curvature="0"
+   style="fill:#4d4d4d" />
+
+	</g>
+
+	<g
+   id="g996">
+		<path
+   id="path994"
+   d="M 11,6 V 9 H 8 v 6 h 3 v 3 H 5 V 6 Z"
+   inkscape:connector-curvature="0"
+   style="fill:#4d4d4d" />
+
+	</g>
+
+</g>
+  </g>
+  <style
+     id="style915"
+     type="text/css">
+	.st0{fill:#DD0031;}
+	.st1{fill:#C3002F;}
+	.st2{fill:#FFFFFF;}
+</style>
+</svg>

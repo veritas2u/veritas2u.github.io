@@ -1,0 +1,195 @@
+//colors
+$fb_color: #2e64c1;
+$tw_color: #8dc4ea;
+$gp_color: #ff2626;
+
+$a1eo :all 1s ease-out;
+
+$a02eio :all 0.2s ease-in-out;
+$a03eio :all 0.3s ease-in-out;
+$a04eio :all 0.4s ease-in-out;
+$a05eio :all 0.5s ease-in-out;
+$a06eio :all 0.6s ease-in-out;
+$a07eio :all 0.7s ease-in-out;
+$a08eio :all 0.8s ease-in-out;
+$a09eio :all 0.9s ease-in-out;
+$a1eio :all 1s ease-in-out;
+$a15eio :all 1.5s ease-in-out;
+$a2eio :all 2s ease-in-out;
+$a5eio :all 5s ease-in-out;
+
+$p1: #fe393b;
+$p2: #fd600a;
+$p3: #eeeeee;
+
+$s1: #444444;
+$s2: #161616;
+$s3: #060606;
+
+$black: #000000;
+$white: #ffffff;
+
+$layp1_0: rgba($p1, 0);
+$layp1_1: rgba($p1, 0.1);
+$layp1_2: rgba($p1, 0.2);
+$layp1_3: rgba($p1, 0.3);
+$layp1_4: rgba($p1, 0.4);
+$layp1_5: rgba($p1, 0.5);
+$layp1_6: rgba($p1, 0.6);
+$layp1_7: rgba($p1, 0.7);
+$layp1_8: rgba($p1, 0.8);
+$layp1_9: rgba($p1, 0.9);
+$layp1_10: rgba($p1, 1.0);
+
+$layp2_0: rgba($p2, 0);
+$layp2_1: rgba($p2, 0.1);
+$layp2_2: rgba($p2, 0.2);
+$layp2_3: rgba($p2, 0.3);
+$layp2_4: rgba($p2, 0.4);
+$layp2_5: rgba($p2, 0.5);
+$layp2_6: rgba($p2, 0.6);
+$layp2_7: rgba($p2, 0.7);
+$layp2_8: rgba($p2, 0.8);
+$layp2_9: rgba($p2, 0.9);
+$layp2_10: rgba($p2, 1.0);
+
+$layp3_0: rgba($p3, 0);
+$layp3_1: rgba($p3, 0.1);
+$layp3_2: rgba($p3, 0.2);
+$layp3_3: rgba($p3, 0.3);
+$layp3_4: rgba($p3, 0.4);
+$layp3_5: rgba($p3, 0.5);
+$layp3_6: rgba($p3, 0.6);
+$layp3_7: rgba($p3, 0.7);
+$layp3_8: rgba($p3, 0.8);
+$layp3_9: rgba($p3, 0.9);
+$layp3_10: rgba($p3, 1.0);
+
+$lays1_0: rgba($s1, 0);
+$lays1_1: rgba($s1, 0.1);
+$lays1_2: rgba($s1, 0.2);
+$lays1_3: rgba($s1, 0.3);
+$lays1_4: rgba($s1, 0.4);
+$lays1_5: rgba($s1, 0.5);
+$lays1_6: rgba($s1, 0.6);
+$lays1_7: rgba($s1, 0.7);
+$lays1_8: rgba($s1, 0.8);
+$lays1_9: rgba($s1, 0.9);
+$lays1_10: rgba($s1, 1.0);
+
+$lays2_0: rgba($s2, 0);
+$lays2_1: rgba($s2, 0.1);
+$lays2_2: rgba($s2, 0.2);
+$lays2_3: rgba($s2, 0.3);
+$lays2_4: rgba($s2, 0.4);
+$lays2_5: rgba($s2, 0.5);
+$lays2_6: rgba($s2, 0.6);
+$lays2_7: rgba($s2, 0.7);
+$lays2_8: rgba($s2, 0.8);
+$lays2_9: rgba($s2, 0.9);
+$lays2_10: rgba($s2, 1.0);
+
+$lays3_0: rgba($s3, 0);
+$lays3_1: rgba($s3, 0.1);
+$lays3_2: rgba($s3, 0.2);
+$lays3_3: rgba($s3, 0.3);
+$lays3_4: rgba($s3, 0.4);
+$lays3_5: rgba($s3, 0.5);
+$lays3_6: rgba($s3, 0.6);
+$lays3_7: rgba($s3, 0.7);
+$lays3_8: rgba($s3, 0.8);
+$lays3_9: rgba($s3, 0.9);
+$lays3_10: rgba($s3, 1.0);
+
+$layb0: rgba($black, 0);
+$layb1: rgba($black, 0.1);
+$layb2: rgba($black, 0.2);
+$layb3: rgba($black, 0.3);
+$layb4: rgba($black, 0.4);
+$layb5: rgba($black, 0.5);
+$layb6: rgba($black, 0.6);
+$layb7: rgba($black, 0.7);
+$layb8: rgba($black, 0.8);
+$layb9: rgba($black, 0.9);
+$layb10: rgba($black, 1.0);
+
+$layw0: rgba($white, 0);
+$layw1: rgba($white, 0.1);
+$layw2: rgba($white, 0.2);
+$layw3: rgba($white, 0.3);
+$layw4: rgba($white, 0.4);
+$layw5: rgba($white, 0.5);
+$layw6: rgba($white, 0.6);
+$layw7: rgba($white, 0.7);
+$layw8: rgba($white, 0.8);
+$layw9: rgba($white, 0.9);
+$layw10: rgba($white, 1.0);
+
+
+//flat colors
+$ftu_color: #1bb899;
+$fgs_color: #1ea286;
+$fem_color: #49b96e;
+$fne_color: #23ae5e;
+$fpr_color: #3596d3;
+$fbh_color: #2581bc;
+$fam_color: #965ba4;
+$fwi_color: #894b9d;
+$fwa_color: #34495d;
+$fmb_color: #2c3e50;
+$fsf_color: #efc419;
+$fog_color: #f39d20;
+$fca_color: #e67d25;
+$fpu_color: #d35728;
+$fal_color: #e74c3b;
+$fpo_color: #c13b2b;
+$fcl_color: #fcfcfc;
+$fsi_color: #bdc1c7;
+$fco_color: #93a4a5;
+$fas_color: #7f8d8d;
+
+
+$mq5b: "screen and (max-width: 565px)";
+$mq7b: "screen and (max-width: 767px)";
+$mq9b: "screen and (max-width: 991px)";
+$mq10b: "screen and (max-width: 1023px)";
+$mq12b: "screen and (max-width: 1199px)";
+
+$mq5a: "screen and (min-width: 566px)";
+$mq7a: "screen and (min-width: 768px)";
+$mq9a: "screen and (min-width: 992px)";
+$mq10a: "screen and (min-width: 1024px)";
+$mq12a: "screen and (min-width: 1200px)";
+
+
+//font attach
+@font-face {
+    font-family: 'MilanoSky-Regular';
+    src: url('../fonts/MilanoSky-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Mist-Regular';
+    src: url('../fonts/Mist-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Hymned Sans';
+    src: url('../fonts/Hymned Sans.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Hymned Swash';
+    src: url('../fonts/Hymned Swash.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Hymend Script';
+    src: url('../fonts/Hymend Script.ttf') format('truetype');
+}
+
+//font family
+$fms_r: 'MilanoSky-Regular';
+$fmi_r: 'Mist-Regular';
+$fhy_s: 'Hymned Sans';
+$fhy_w: 'Hymned Swash';
+$fhy_c: 'Hymned Script';
+
+
+//variables ends here
