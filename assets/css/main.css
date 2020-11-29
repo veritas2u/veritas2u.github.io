@@ -755,8 +755,7 @@ main.scss
   box-sizing: border-box; }
   @media screen and (min-width: 768px) {
     .contact_container .contact_content .contact_design {
-      width: 50%;
-      float: left; } }
+      text-align: center; } }
   @media screen and (min-width: 768px) {
     .contact_container .contact_content form {
       width: 50%;

@@ -551,42 +551,42 @@
     }
 }
 
-.home_title,
-.skills_title,
-.projects_title,
-.contact_title {
-    width: 100%;
-    overflow: hidden;
-    @include transition($a05eio);
-    opacity: 0;
-    //    &:after{
-    //        position: absolute;
-    //        width: 100%;
-    //        background: $p3;
-    //        content: "";
-    //        top: 0;
-    //        left: 0;
-    //        bottom: 0;
-    //        @include transition($a1eio);
-    //        @media #{$mq7b} {
-    //            background: $layw10;
-    //        }
-    //    }
-}
+// .home_title,
+// .skills_title,
+// .projects_title,
+// .contact_title {
+//     width: 100%;
+//     overflow: hidden;
+//     @include transition($a05eio);
+//     opacity: 0;
+//     //    &:after{
+//     //        position: absolute;
+//     //        width: 100%;
+//     //        background: $p3;
+//     //        content: "";
+//     //        top: 0;
+//     //        left: 0;
+//     //        bottom: 0;
+//     //        @include transition($a1eio);
+//     //        @media #{$mq7b} {
+//     //            background: $layw10;
+//     //        }
+//     //    }
+// }
 
 .home_container {
     text-align: center;
 
-    .home_title {
-        @include transition($a1eio);
-        opacity: 1;
+    // .home_title {
+    //     @include transition($a1eio);
+    //     opacity: 1;
 
-        &:after {
-            @include transition($a1eio);
-            left: 50%;
-            opacity: 1;
-        }
-    }
+    //     &:after {
+    //         @include transition($a1eio);
+    //         left: 50%;
+    //         opacity: 1;
+    //     }
+    // }
 
     .home {
         display: block;
@@ -661,16 +661,16 @@
         display: none;
     }
 
-    .skills_title {
-        @include transition($a1eio);
-        opacity: 1;
+    // .skills_title {
+    //     @include transition($a1eio);
+    //     opacity: 1;
 
-        &:after {
-            @include transition($a1eio);
-            left: 50%;
-            opacity: 1;
-        }
-    }
+    //     &:after {
+    //         @include transition($a1eio);
+    //         left: 50%;
+    //         opacity: 1;
+    //     }
+    // }
 
     .skills {
         display: block;
@@ -900,16 +900,16 @@
         display: none;
     }
 
-    .contact_title {
-        @include transition($a1eio);
-        opacity: 1;
+    // .contact_title {
+    //     @include transition($a1eio);
+    //     opacity: 1;
 
-        &:after {
-            @include transition($a1eio);
-            left: 50%;
-            opacity: 1;
-        }
-    }
+    //     &:after {
+    //         @include transition($a1eio);
+    //         left: 50%;
+    //         opacity: 1;
+    //     }
+    // }
 
     .contact {
         display: block;
@@ -946,10 +946,11 @@
         //        }
 
         .contact_design {
-            @media #{$mq7a} {
-                width: 50%;
-                float: left;
-            }
+            text-align: center;
+            // @media #{$mq7a} {
+            //     width: 50%;
+            //     float: left;
+            // }
         }
 
         form {
